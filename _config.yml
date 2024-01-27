@@ -104,4 +104,4 @@ theme: landscape
 deploy:
   type: git
   repo: https://github.com/the-stars-are-shining-brightly/the-stars-are-shining-brightly.github.io.git
-  branch: master
+  branch: main
